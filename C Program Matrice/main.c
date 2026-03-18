@@ -1,8 +1,8 @@
         /*
     Name: Ugochukwu Oreh
-    Student Number: 250158337
-    Module: ELE118 Introduction to Systems Engineering and Software
-    Assignment: C Programming Assignment - Matrices
+    Gaussian Elimination Matrix Solver
+This program performs matrix operations using Gaussian elimination,
+including determinant and inverse calculation.
     Reference: SVKG (2022) C Program for Gauss Elimination Method. Available at:
 https://svkg.in/gauss-elimination-method/
 (Accessed: 19 March 2026).
